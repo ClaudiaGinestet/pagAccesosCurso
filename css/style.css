@@ -1,0 +1,50 @@
+aside li:hover{
+    background-color: rgb(68, 88, 241);
+    border-style: inset;
+
+
+ }
+
+ body{
+    
+    background-color: whitesmoke;
+
+ }
+ 
+ .py-5 {
+   background-color: #F7D300;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+  
+
+}
+ main{
+   
+    
+    padding: 20px;
+
+ }
+aside ul {  list-style: none;
+       padding: 30px;
+       margin: 30px;
+       font-size: 200%;
+       border-style: outset;
+       border-radius: 20px;
+       border-width: 10px;
+       
+
+ }
+ aside li{
+    margin: 20px;
+    border-style: outset;
+    border-radius: 20px;
+    text-align: left;
+ }
+ aside h1{
+    color: rgb(28, 27, 27);
+    background-color: #F7D300; 
+    text-align: center;
+   
+    }
+
+
